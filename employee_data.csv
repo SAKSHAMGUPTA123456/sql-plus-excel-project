@@ -1,0 +1,16 @@
+"employeeid","employeename","department","role","gender","age","salary","dateofjoining","location","performancerating"
+1,"Amit Sharma","IT","Software Engineer","Male",28,"65000.00","2020-06-15","Mumbai",4
+2,"Priya Verma","HR","HR Executive","Female",32,"50000.00","2019-03-10","Delhi",3
+3,"Rohit Mehta","Finance","Accountant","Male",30,"55000.00","2021-01-05","Bangalore",4
+4,"Sneha Gupta","Marketing","Marketing Manager","Female",35,"75000.00","2018-09-20","Mumbai",5
+5,"Ankit Rawat","IT","Backend Developer","Male",26,"62000.00","2022-02-17","Hyderabad",3
+6,"Neha Singh","Finance","Financial Analyst","Female",29,"58000.00","2020-11-12","Delhi",4
+7,"Vikas Yadav","Sales","Sales Executive","Male",27,"45000.00","2021-05-30","Pune",2
+8,"Ritika Joshi","Sales","Sales Manager","Female",31,"70000.00","2019-08-18","Mumbai",4
+9,"Deepak Jain","IT","Frontend Developer","Male",25,"60000.00","2023-01-01","Bangalore",3
+10,"Megha Rathi","HR","Recruiter","Female",30,"52000.00","2021-04-23","Hyderabad",4
+11,"Arjun Patel","IT","DevOps Engineer","Male",33,"68000.00","2020-09-09","Chennai",5
+12,"Simran Kaur","Marketing","Content Strategist","Female",28,"54000.00","2022-06-01","Delhi",4
+13,"Tarun Sinha","Sales","Business Analyst","Male",34,"67000.00","2017-10-11","Pune",5
+14,"Pooja Nair","Finance","Audit Officer","Female",29,"59000.00","2021-12-25","Chennai",3
+15,"Rajeev Menon","HR","HR Manager","Male",40,"78000.00","2016-04-19","Mumbai",4
